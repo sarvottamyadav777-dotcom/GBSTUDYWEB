@@ -1,0 +1,8 @@
+name = "gb-study"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "dist"
+
+# Optional KV namespace for global multi-user Admin persistence on Cloudflare Pages:
+# [[kv_namespaces]]
+# binding = "GB_STUDY_KV"
+# id = "YOUR_KV_NAMESPACE_ID"
